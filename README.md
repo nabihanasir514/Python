@@ -43,9 +43,5 @@ Organized by theme and complexity, this repository includes:
 - 🛠 *Practice problem-solving with real code*
 - 🔍 *Serve as a quick reference for future projects*
 - 🧑‍🤝‍🧑 *Share examples with peers or anyone starting their Python path*
-
----
-
-If you're curious to see the file structure or want to explore specific areas of Python, check out the [📁 Folder Structure](#-folder-structure) below.
-
+- 
 > ⭐ Feel free to fork this repo, try the code, and build your own Python journey!
