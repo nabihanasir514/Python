@@ -1,4 +1,4 @@
-# 🐍 Python Projects
+#  Python
 
 Welcome to my Python practice repository!  
 This collection of scripts documents my learning journey through the world of Python — starting from the basics and gradually building toward more advanced concepts.
