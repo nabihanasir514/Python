@@ -1,0 +1,2 @@
+name = "Nabiha"
+greeting = 'Hello'
